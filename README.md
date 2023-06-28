@@ -40,7 +40,7 @@
 <p>&nbsp;<img align="center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sagar6205&show_icons=true&locale=en&theme=radical" alt="sagar6205" /></p>
 <!-- <div></div> -->
 <p><img align="center" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar6205&theme=radical" alt="sagar6205" /></p>
-
+<hr>
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
