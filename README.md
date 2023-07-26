@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://gmail.com/sagarraj143sk@gmail.com" target="blank"><img align="center" src="https://imgtr.ee/images/2023/07/08/019c3cca9c942fae9416a0d684b3e5d4.png" alt="sagarraj143sk@gmail.com" height="40" width="40" />
+<a href="https://gmail.com/sagarraj143sk@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Sagar6205/Sagar6205/main/icons8-gmail-96.png" alt="sagarraj143sk@gmail.com" height="40" width="40" />
 </a>&nbsp;
 <a href="https://instagram.com/sagar_raj_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_raj_143" height="30" width="40" />
 </a>&nbsp;
